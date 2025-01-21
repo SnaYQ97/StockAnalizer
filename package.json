@@ -1,0 +1,21 @@
+
+{
+  "name": "stockinvestanalize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "optimizedVersion.js",
+  "scripts": {
+    "start": "ts-node src/optimizedVersion.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.11.0",
+    "csv-parse": "^5.5.3"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
